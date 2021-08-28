@@ -1,4 +1,1 @@
 1st line of 1.txt
-1st line of 1st file
-2nd line of 1st file
-3rd line of 1st file

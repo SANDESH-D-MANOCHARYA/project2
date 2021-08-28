@@ -1,4 +1,1 @@
 1st line of 1.txt
-2nd line of 1.txt
-3rd line of 1.txt
-4th line of 1.txt
